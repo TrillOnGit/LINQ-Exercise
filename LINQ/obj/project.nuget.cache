@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pwtWqzGRWs+T1zz5jRf+MwE+3lTeypOjuqk+g01pTjBsH1emgBHnmk5sn0V0BM3Xr4MEJMCy6GBRYuDhAoNIrQ==",
+  "dgSpecHash": "yziehCrxt+LlaCEIYjuVgiJNDguMwvACpHNClOItQX6/axwHnoivOIyjQ3HaCcnedkCv2AvEEHZtgOBl7UzD+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\LINQ\\LINQ\\LINQ.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/trillion/Repos/LINQ-Exercise/LINQ/LINQ.csproj",
+  "expectedPackageFiles": [
+    "/home/trillion/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.19/microsoft.netcore.app.host.linux-x64.6.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
